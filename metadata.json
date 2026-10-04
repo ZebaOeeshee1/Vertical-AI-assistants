@@ -1,0 +1,6 @@
+{
+  "name": "Vertical AI Assistants",
+  "description": "Specialized AI assistants for law firms, medical clinics, and real estate agencies that draft documents and answer client inquiries using proprietary business data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
